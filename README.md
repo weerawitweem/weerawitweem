@@ -3,13 +3,23 @@
 
 Currently wonder in the world of technologies💻✨
 
+Studying computer engineering and digital technology at Chulalongkorn University📡
+
 What I can do:
 - [x] Open my PC👓
 - [x] Use cmd and look like hacker👨‍💻
 - [x] ~~Use chat to magically finish my work~~
-- [ ] Learn to code<sub>ongoing</sub>
+- [ ] Learn to actually code<sub>ongoing</sub>
 
+My skill so far:
+- C
+- C++
+- C#
+- Java
+- Python
+- html, css
 
+  
 <!--
 **weerawitweem/weerawitweem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
