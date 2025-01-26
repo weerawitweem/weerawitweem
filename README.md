@@ -11,7 +11,7 @@ What I can do:
 - [x] ~~Use chat to magically finish my work~~
 - [ ] Learn to actually code<sub>ongoing</sub>
 
-My skill so far:
+My skills so far:
 - C
 - C++
 - C#
